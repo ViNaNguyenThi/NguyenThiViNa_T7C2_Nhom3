@@ -1,1 +1,2 @@
-# ViNa_Thu7_C2_Nhom3
+### Xin chào mọi người,
+Tôi tên là Nguyễn Thị Vi Na. Hiện tại, là sinh viên năm 3 tại trường Đại học Ngoại Ngữ - Tin Học Thành phố Hồ Chí Minh (HUFLIT), sinh viên ngành Công nghê thông tin, chuyên ngành Công nghệ phần mềm. Tôi đã tìm hiểu và học được các ngôn ngữ lập trình như C#, Java, NodeJS, ReactJS, SQL Sever, MongoDB. Hiện tại, tôi đang có 2 dự án đang làm bằng ngôn ngữ NodeJS, ReactJS và MongoDB về quản lý khách sạn, và quản lý bệnh viên tư nhân răng hàm mặt.
