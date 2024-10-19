@@ -1,2 +1,3 @@
-### Xin chào mọi người,
-Tôi tên là Nguyễn Thị Vi Na. Hiện tại, là sinh viên năm 3 tại trường Đại học Ngoại Ngữ - Tin Học Thành phố Hồ Chí Minh (HUFLIT), sinh viên ngành Công nghê thông tin, chuyên ngành Công nghệ phần mềm. Tôi đã tìm hiểu và học được các ngôn ngữ lập trình như C#, Java, NodeJS, ReactJS, SQL Sever, MongoDB. Hiện tại, tôi đang có 2 dự án đang làm bằng ngôn ngữ NodeJS, ReactJS và MongoDB về quản lý khách sạn, và quản lý bệnh viên tư nhân răng hàm mặt.
+### Hi everybody,
+My name is Nguyen Thi Vi Na. Currently, he is a 3rd year student at Ho Chi Minh City University of Foreign Languages - Information Technology (HUFLIT), majoring in Information Technology, majoring in Software Technology. I have researched and learned programming languages ​​such as C#, Java, NodeJS, SQL Sever, MongoDB. Currently, I have 2 projects working on NodeJS, ReactJS and MongoDB languages ​​about hotel management and private dental hospital management.
+Besides, I also have knowledge of UX/UI, designing website and mobile pages for the project. Languages ​​such as HTML, CSS, Bootstrap, ReactJS are used.
