@@ -14,12 +14,18 @@ I’m an aspiring software developer with hands-on experience in various program
 
 ## 🛠 Skills & Tools
 
+### Technical Skills
+
+| Skill      | Proficiency |
+|------------|-------------|
+| **HTML**   | ![90%](https://progress-bar.dev/90) |
+| **CSS**    | ![85%](https://progress-bar.dev/85) |
+| **ReactJS**| ![80%](https://progress-bar.dev/80) |
+| **UX/UI Design** | ![75%](https://progress-bar.dev/75) |
+| **Jira**   | ![70%](https://progress-bar.dev/70) |
+
 ### Programming Languages
 - **C#, Java, NodeJS, SQL Server, MongoDB**
-
-### Front-end Development
-- **HTML, CSS, Bootstrap, ReactJS**
-- **UX/UI Design:** Focused on creating intuitive and responsive interfaces for both web and mobile platforms.
 
 ### Project Highlights
 - **Hotel Management System** using **NodeJS**, **ReactJS**, and **MongoDB**
