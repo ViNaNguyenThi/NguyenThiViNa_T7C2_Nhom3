@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-url" alt="Banner" width="100%" />
-</div>
 
 # Hi there, I'm Nguyen Thi Vi Na! 👋
 
@@ -16,13 +13,13 @@ I’m an aspiring software developer with hands-on experience in various program
 
 ### Technical Skills
 
-| Skill      | Proficiency |
-|------------|-------------|
-| **HTML**   | ![90%](https://progress-bar.dev/90) |
-| **CSS**    | ![85%](https://progress-bar.dev/85) |
-| **ReactJS**| ![80%](https://progress-bar.dev/80) |
-| **UX/UI Design** | ![75%](https://progress-bar.dev/75) |
-| **Jira**   | ![70%](https://progress-bar.dev/70) |
+| Skill             | Proficiency         |
+|-------------------|---------------------|
+| **HTML**          | ██████████ 90%      |
+| **CSS**           | █████████ 85%       |
+| **ReactJS**       | ████████ 80%        |
+| **UX/UI Design**  | ███████ 75%         |
+| **Jira**          | ██████ 70%          |
 
 ### Programming Languages
 - **C#, Java, NodeJS, SQL Server, MongoDB**
