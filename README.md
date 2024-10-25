@@ -44,19 +44,12 @@ I’m an aspiring software developer with hands-on experience in various program
 
 ---
 
-## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
----
 
 ## 📫 Contact
 
 Feel free to reach out for collaborations, project discussions, or if you just want to connect!
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **Facebook:** [facebook.com/your-facebook-profile](https://facebook.com/your-facebook-profile)
+- **Email:** [your-email@example.com](mailto:nguyenthivina0511@gmail.com)
 
-<div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=your-username.your-username" alt="Visitor Count Badge" />
-</div>
+
