@@ -50,6 +50,6 @@ I’m an aspiring software developer with hands-on experience in various program
 
 Feel free to reach out for collaborations, project discussions, or if you just want to connect!
 
-- **Email:** [your-email@example.com](mailto:nguyenthivina0511@gmail.com)
+- **Email:** [nguyenthivina0511@gmail.com](mailto:nguyenthivina0511@gmail.com)
 
 
